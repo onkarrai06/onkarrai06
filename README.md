@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Currently working and learning from a Fellowship programme.
+- Looking for help with Web Development and ML.
+- Gamer and data science aspirant 😄 
+
 <!--
 **onkarrai06/onkarrai06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
