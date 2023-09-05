@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- Currently working and learning from a Fellowship programme.
 - Looking for help with Web Development and ML.
 - Gamer and data science aspirant 😄 
 
